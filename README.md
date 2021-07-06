@@ -90,7 +90,7 @@
 [leetcode]: https://leetcode.com/APet99/
 
 
-[![Website](https://img.shields.io/website?label=APet.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=APet.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://APet.dev)
 
 <!--
 **APet99/APet99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
