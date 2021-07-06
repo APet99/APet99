@@ -9,54 +9,76 @@
 
 ## I'm a life-long learner, who appreciates a challenge, and welcomes new knowledge!!
 
+---
 - <img src="https://img.icons8.com/doodle/16/000000/books.png"/> I graduated May 2021 with my Bachelors of Science in Software Engineering
 - 🔭 I’m currently working on building, and maintaining cloud save functionality for a server on the steam game <i> Table Top Simulator</i>.
 - 🌱 I’m currently learning everything 🤣
 - <img src="https://img.icons8.com/office/16/000000/find-matching-job.png"/> I’m looking for a full-time software engineering position
 - 🥅 2021 Goals: Contribute to an Open Source projects, and launch a complete project of my own
 - ⚡ Fun fact: I love comedy movies, and tv series with multiple seasons
-
-<hr>
-
+<br>
+  
 ### Spotify Playing 🎧
 
+---
 [<img src="https://now-playing-spotify-88441i365-apet99.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/7798feb0eb454dcc)
 
-<hr>
+<br>
 
 ### What I'm Up To:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=APet99&show_icons=true&theme=dark)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APet99&theme=dark)](https://github.com/APet99/github-readme-stats)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APet99&hide=HTML,CSS,EJS,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=APet99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APet99&repo=ZoomWebExAutoJoiner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APet99&repo=GPPT-Database-API&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
+<br><br>
 
 ### Languages and Tools:
-<div style="margin: auto; width: 50%; padding: 10px;">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-    <img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-    <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-    <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img align="left" alt="Node.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-    <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</div>
+
+---
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio-studio?style=flat&logo=VisualStudioCode&logoColor=white&color=1cd4d1)
+![](https://img.shields.io/badge/Editor-Pycharm-studio?style=flat&logo=pycharm&logoColor=white&color=1cd4d1)
+![](https://img.shields.io/badge/Editor-Webstorm-studio?style=flat&logo=webstorm&logoColor=white&color=1cd4d1)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=de8d1d)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=de8d1d)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=de8d1d)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=de8d1d)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=de8d1d)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=de8d1d)
+![](https://img.shields.io/badge/Tools-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=8e61ff)
+![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=8e61ff)
+![](https://img.shields.io/badge/Tools-Scikit-informational?style=flat&logo=scikit-learn&logoColor=white&color=8e61ff)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=8e61ff)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=8e61ff)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mysql&logoColor=white&color=8e61ff)
+![](https://img.shields.io/badge/Tools-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=8e61ff)
+
+
+
+
 <br />
-<br />
-<hr>
+
 
 ### Where You Can Find Me:
+
+---
 
 [<img align="left" alt="APet.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
