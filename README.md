@@ -53,7 +53,7 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio-studio?style=flat&logo=VisualStudioCode&logoColor=white&color=1cd4d1)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-studio?style=flat&logo=VisualStudioCode&logoColor=white&color=1cd4d1)
 ![](https://img.shields.io/badge/Editor-Pycharm-studio?style=flat&logo=pycharm&logoColor=white&color=1cd4d1)
 ![](https://img.shields.io/badge/Editor-Webstorm-studio?style=flat&logo=webstorm&logoColor=white&color=1cd4d1)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=de8d1d)
