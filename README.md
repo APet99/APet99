@@ -29,19 +29,19 @@
 
 ---
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/APet99/APet99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APet99&hide=HTML,CSS,EJS,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/APet99/APet99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=APet99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/APet99/ZoomWebExAutoJoiner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APet99&repo=ZoomWebExAutoJoiner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/APet99/GPPT-Database-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APet99&repo=GPPT-Database-API&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
