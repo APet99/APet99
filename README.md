@@ -13,7 +13,6 @@
 - <img src="https://img.icons8.com/doodle/16/000000/books.png"/> I graduated May 2021 with my Bachelors of Science in Software Engineering
 - 🔭 I’m currently working on building, and maintaining cloud save functionality for a server on the steam game <i> Table Top Simulator</i>.
 - 🌱 I’m currently learning everything 🤣
-- <img src="https://img.icons8.com/office/16/000000/find-matching-job.png"/> I’m looking for a full-time software engineering position
 - 🥅 2021 Goals: Contribute to an Open Source projects, and launch a complete project of my own
 - ⚡ Fun fact: I love comedy movies, and tv series with multiple seasons
 <br>
