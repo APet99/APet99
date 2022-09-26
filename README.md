@@ -13,7 +13,7 @@
 - <img src="https://img.icons8.com/doodle/16/000000/books.png"/> I graduated May 2021 with my Bachelors of Science in Software Engineering
 - 🔭 I’m currently working on building, and maintaining cloud save functionality for a server on the steam game <i> Table Top Simulator</i>.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute to an Open Source projects, and launch a complete project of my own
+- 🥅 2023 Goals: Contribute to an Open Source projects, and launch a complete project of my own
 - ⚡ Fun fact: I love comedy movies, and tv series with multiple seasons
 <br>
   
@@ -88,10 +88,10 @@
 [linkedin]: https://www.linkedin.com/in/alexpeterson99/
 [leetcode]: https://leetcode.com/APet99/
 
-
-[![Website](https://img.shields.io/website?label=APet.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://APet.dev)
-
 <!--
+[Website](https://img.shields.io/website?label=APet.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://APet.dev)
+
+
 **APet99/APet99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
